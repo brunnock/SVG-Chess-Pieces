@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 300 300">
+
+  <title>Black Bishop</title>
+
+  <style>
+    rect {
+    rx:8;
+    ry:8;
+    }
+   </style>
+  
+  <g fill="#000" stroke="#333333" stroke-width="10" stroke-linejoin="round">
+    <path d="M120,280 C -67,-60 368,-60 180,280" />
+    <rect x="30" y="240" width="240" height="50" />
+    <g stroke="#fff">
+      <line x1="130" x2="170" y1="110" y2="110" />
+      <line x1="150" x2="150" y1="90" y2="130" />
+    </g>
+  </g>
+
+</svg>

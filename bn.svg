@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 300 300">
+
+  <title>Black Knight</title>
+
+  <style>
+    rect {
+    rx:8;
+    ry:8;
+    }
+  </style>
+  
+  <g fill="#000" stroke="#333333" stroke-width="10" stroke-linejoin="round">
+    <path d="M240,120  L160,20  C60,60 10,150 75,240  L225,240  C60,140 120,80 160,100  L220,145 Z" />
+    <rect x="30" y="240" width="240" height="50" />
+  </g>
+
+</svg>

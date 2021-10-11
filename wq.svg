@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 300 300">
+
+  <title>White Queen</title>
+
+  <style>
+    rect {
+    rx:8;
+    ry:8;
+    }
+   </style>
+  
+  
+  <g fill="#fff" stroke="#333333" stroke-width="10" stroke-linejoin="round">
+      <path d="M110,280    L75,43 L120,80 L150,20 L180,80 L225,40 L190,280 " />
+      <rect x="30" y="240" width="240" height="50" />
+      <circle cx='75' cy='43' r='10'  />
+      <circle cx='150' cy='20' r='10'  />
+      <circle cx='225' cy='40' r='10'  />
+  </g>
+
+</svg>

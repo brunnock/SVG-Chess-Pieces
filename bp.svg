@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 300 300">
+
+  <title>Black Pawn</title>
+  
+  <g fill="#000" stroke="#333" stroke-width="10">
+    <ellipse cx="150" cy="190" rx="40" ry="70" />
+    <circle cx="150" cy="100" r="30" />
+    <path d="M50,290 C 100,210 200,210 250,290 z" />
+  </g>
+
+</svg>
